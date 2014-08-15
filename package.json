@@ -1,0 +1,25 @@
+{
+  "name": "tennis",
+  "version": "0.0.0",
+  "description": "",
+  "main": "tests.js",
+  "dependencies": {
+    "chai": "^1.9.1"
+  },
+  "devDependencies": {
+    "mocha": "^1.21.4"
+  },
+  "scripts": {
+    "test": "mocha tests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/7digital/tennis-kata-dojo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/7digital/tennis-kata-dojo/issues"
+  },
+  "homepage": "https://github.com/7digital/tennis-kata-dojo"
+}
